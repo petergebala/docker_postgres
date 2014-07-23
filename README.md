@@ -1,7 +1,7 @@
 ## petergebala/docker_postgres
 
 Basic structure of Dockerfile for postgres server.
-[Docker repository page] (https://registry.hub.docker.com/u/petergebala/docker-postgres).
+[Docker repository page] (https://registry.hub.docker.com/u/petergebala/docker_postgres).
 
 #### It does:
 
